@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="city_kyiv">Київ</string>
+    <string name="hint_search_city">Введіть назву міста (напр., Львів, Лондон)</string>
+    <string name="btn_search">Знайти</string>
+    <string name="btn_my_location">Визначити мою GPS-локацію</string>
+    <string name="current_gps_location">Моя GPS-локація</string>
+    <string name="temperature_format">Температура: %1$.1f °C</string>
+    <string name="wind_format">Швидкість вітру: %1$.1f км/год</string>
+    <string name="btn_refresh">Оновити погоду</string>
+    <string name="btn_switch_lang">Перемкнути на English (EN)</string>
+    <string name="status_loading">Завантаження актуального прогнозу…</string>
+    <string name="status_error">Помилка отримання даних погоди</string>
+    <string name="error_city_not_found">Місто не знайдено</string>
+    <string name="error_location_permission">Доступ до геолокації відхилено</string>
+    <string name="widget_loading">Натисніть для оновлення</string>
+</resources>
