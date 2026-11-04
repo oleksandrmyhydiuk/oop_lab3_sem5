@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Tracker</string>
+    <string name="city_kyiv">Kyiv</string>
+    <string name="hint_search_city">Enter city name (e.g., Lviv, London)</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_my_location">Use Current GPS Location</string>
+    <string name="current_gps_location">My GPS Location</string>
+    <string name="temperature_format">Temperature: %1$.1f °C</string>
+    <string name="wind_format">Wind speed: %1$.1f km/h</string>
+    <string name="btn_refresh">Refresh Weather</string>
+    <string name="btn_switch_lang">Switch to Ukrainian (UK)</string>
+    <string name="status_loading">Fetching latest forecast…</string>
+    <string name="status_error">Failed to load weather data</string>
+    <string name="error_city_not_found">City not found</string>
+    <string name="error_location_permission">Location permission denied</string>
+    <string name="widget_loading">Tap to update</string>
+</resources>
